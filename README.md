@@ -2,6 +2,10 @@
 
 An Android translation app written in Java with Android Studio. It uses Google ML Kit on-device translation to translate between 50+ languages: language models are downloaded once (Wi-Fi only) and translation then works offline, without an API key.
 
+## Download
+
+Get the latest APK from the [Releases page](https://github.com/ebs1848/Languager/releases/latest).
+
 ## Features
 
 - Translate text between any two of the 50+ languages offered by ML Kit on-device translation (default pair: English to Turkish).
